@@ -2,4 +2,4 @@
 A console-based Monopoly Game developed with Java
 Developed By: Mahmut AKTAŞ & Hava Karaçam
 
-![Monopoly Demo](https://github.com/mahmutaktas/Monopoly_Game/blob/master/monopoly_gif.gif)
+![Monopoly Demo](https://github.com/mahmutaktas/Monopoly_Game/blob/master/monopoly.gif)
